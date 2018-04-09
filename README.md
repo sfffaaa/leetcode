@@ -10,15 +10,13 @@ leetcode from chrome.
 ### Functions
 This project has two spec for using easily.  
 ##### 1. Level focusing:  
-    In leetcode, there are three levels, easy, medium and hard. So callee can change the parameter for focusing the level they want to practice.  
+In leetcode, there are three levels, easy, medium and hard. So callee can change the parameter for focusing the level they want to practice.  
 
 ##### 2. Uninterested Problem skipping  
-    Callee can skip their uninterested problem even the problem has high frequency. It helps me to skip SQL related problem.
+Callee can skip their uninterested problem even the problem has high frequency. It helps me to skip SQL related problem.
 
 ****
 	
 |Author|JayPan|
 |---|---
 |E-mail|sfffaaa@gmail.com
-
-
